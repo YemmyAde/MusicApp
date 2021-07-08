@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/MusicApp/static/css/main.239fe8ec.chunk.css",
+    "main.js": "/MusicApp/static/js/main.24281293.chunk.js",
+    "main.js.map": "/MusicApp/static/js/main.24281293.chunk.js.map",
+    "runtime-main.js": "/MusicApp/static/js/runtime-main.5a7b4e80.js",
+    "runtime-main.js.map": "/MusicApp/static/js/runtime-main.5a7b4e80.js.map",
+    "static/js/2.c0a73796.chunk.js": "/MusicApp/static/js/2.c0a73796.chunk.js",
+    "static/js/2.c0a73796.chunk.js.map": "/MusicApp/static/js/2.c0a73796.chunk.js.map",
+    "index.html": "/MusicApp/index.html",
+    "static/css/main.239fe8ec.chunk.css.map": "/MusicApp/static/css/main.239fe8ec.chunk.css.map",
+    "static/js/2.c0a73796.chunk.js.LICENSE.txt": "/MusicApp/static/js/2.c0a73796.chunk.js.LICENSE.txt",
+    "static/media/404.e951730a.png": "/MusicApp/static/media/404.e951730a.png",
+    "static/media/4042.548982e6.png": "/MusicApp/static/media/4042.548982e6.png",
+    "static/media/background2.d64b8499.jpg": "/MusicApp/static/media/background2.d64b8499.jpg",
+    "static/media/loading.feecb279.gif": "/MusicApp/static/media/loading.feecb279.gif",
+    "static/media/music2.c844fad5.png": "/MusicApp/static/media/music2.c844fad5.png",
+    "static/media/topAlbum2.5670cafd.jpg": "/MusicApp/static/media/topAlbum2.5670cafd.jpg",
+    "static/media/topSong.98273dd2.jpg": "/MusicApp/static/media/topSong.98273dd2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a7b4e80.js",
+    "static/js/2.c0a73796.chunk.js",
+    "static/css/main.239fe8ec.chunk.css",
+    "static/js/main.24281293.chunk.js"
+  ]
+}
