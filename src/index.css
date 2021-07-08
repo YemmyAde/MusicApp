@@ -1,0 +1,49 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Arimo:wght@400;500&family=Heebo:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+font-weight: ;
+letter-spacing: 1px;
+font-family: "Heebo", Arial, sans-serif;
+color:white;
+text-decoration: none;
+}
+.preview{
+    color:black;
+    font-family: "Pacifico", Arial, sans-serif;
+}
+.writeup3{
+    font-family:;
+    font-weight: lighter;
+}
+.writeup2{
+    font-family: "Pacifico", Arial, sans-serif;
+    font-weight: lighter;
+}
+.heading{
+    font-family: ;
+}
+.musicTitle{
+    font-family: "Roboto", Arial, sans-serif;
+}
+.category{
+    font-family: "Roboto", Arial, sans-serif;
+}
+
+/* .content{
+    display: flex;
+    flex-wrap: wrap;
+    width:100%;
+    background-color: ;
+} */
